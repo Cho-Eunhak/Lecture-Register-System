@@ -1,2 +1,2 @@
 # Lecture-Register-System
- Just using java console, txt file(no GUI, Database)
+ Just using java console, txt file(no GUI, SQL)
