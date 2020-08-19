@@ -20,3 +20,6 @@
 * 미리담기, 수강신청한 총 학점 보여주기
 * 비밀번호 변경
 * 로그아웃
+
+## 코드 구조(UML, Enterprise Architect 사용)
+![workflow](https://user-images.githubusercontent.com/59510736/90589250-a2ffff80-e218-11ea-9bb0-31c5a8da1552.jpg)
