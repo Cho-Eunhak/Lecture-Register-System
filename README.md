@@ -1,4 +1,4 @@
-## 수강신청 시스템
+# 수강신청 시스템
 자바 콘솔창 이용(데이터는 txt 파일로 이용, GUI, SQL 없음)
 
 
@@ -21,5 +21,5 @@
 * 비밀번호 변경
 * 로그아웃
 
-## 코드 구조(UML, Enterprise Architect 사용, ValueObject(DAO는 제외시킴))
+## 코드 구조(UML, Enterprise Architect 사용, ValueObject(DAO는 제외))
 ![workflow](https://user-images.githubusercontent.com/59510736/90589250-a2ffff80-e218-11ea-9bb0-31c5a8da1552.jpg)
